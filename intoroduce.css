@@ -1,0 +1,11 @@
+body {
+    font-size: 35px;
+}
+
+.main h1 {
+    color: green;
+}
+
+.main span {
+    color: red;
+}
